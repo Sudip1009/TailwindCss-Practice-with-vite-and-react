@@ -9,13 +9,13 @@ import Category from './components/Category'
 function App() {
 
   return (
-   <>
-    <Navbar/>
-    <Hero/>
-    <Headcard/>
-    <FoodMenu/>
-    <Category/>
-   </>
+    <>
+     <Navbar/>
+     <Hero/>
+     <Headcard/>
+     <FoodMenu/>
+     <Category/>
+    </>
   )
 }
 
